@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1589217157232-464b505b197f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "productName": "Apple",
+    "count": 4,
+    "size": {
+      "width": 200,
+      "height": 200
+    },
+    "weight": "200g",
+    "comments": ["comment1", "comment2"]
+  }
+]
